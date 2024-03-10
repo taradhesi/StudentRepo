@@ -6,7 +6,7 @@ void testMethod1()
   //Second commnad print(x)
 
 
-  //Last line print('Good bye')
+  //Last line print('TARA')
 }
 
 void testMethod2()
